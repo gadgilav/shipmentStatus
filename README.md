@@ -21,7 +21,7 @@ When viewing a record that has a "Shipment__c" related to it, the component will
 
 Click the "FETCH STATUS" button to fetch and display the current status of the shipment based on the tracking number.
 
-To clear the displayed status and refresh, click the "REFRESH" button.
+To clear the displayed status and refresh, click the "RESET" button.
 
 Installation
 To use this component in your Salesforce org, follow these steps:
